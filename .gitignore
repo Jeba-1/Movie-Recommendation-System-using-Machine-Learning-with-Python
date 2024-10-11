@@ -1,1 +1,19 @@
-venv
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# Logs
+*.log
+
+# Local configuration files
+*.env
