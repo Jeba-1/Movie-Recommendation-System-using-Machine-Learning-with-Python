@@ -1,7 +1,0 @@
-# Set the default behavior for text files
-* text=auto
-
-# Handle specific file types
-*.py text
-*.md text
-*.html text
