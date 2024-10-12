@@ -1,8 +1,8 @@
 Content-Based Movie Recommendation System with Python, Deployed on Streamlit Cloud Using Real-Time API Integration
 
 Datasets:
-         1.tmdb_5000_movies.csv
-         2.tmdb_5000_credits.csv
+1.tmdb_5000_movies.csv
+2.tmdb_5000_credits.csv
 Dataset link:         
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
