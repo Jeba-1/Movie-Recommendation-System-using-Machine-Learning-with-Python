@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environments and dependencies
+venv/
+env/
+*.egg-info/
+
+# Ignore large datasets (if any)
+*.csv
+*.json
+*.zip

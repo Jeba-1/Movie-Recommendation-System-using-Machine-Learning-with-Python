@@ -1,0 +1,13 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Mark Jupyter Notebooks to handle merge conflicts better
+*.ipynb merge=union
+
+# Set specific attributes for binary files
+*.png binary
+*.jpg binary
+*.gif binary
+
+# CSV files are treated as text (if not excluded)
+*.csv text
