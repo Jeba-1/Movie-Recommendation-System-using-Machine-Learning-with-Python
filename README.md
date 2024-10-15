@@ -28,4 +28,4 @@ Requirements:
        8.Use Git LFS and git bash to upload large files by cloning your Github Repository.
 
 App link:       
-       https://jebapriyaj-movie-recommendation-system.streamlit.app/
+       https://jebapriya-movie-app.streamlit.app/
