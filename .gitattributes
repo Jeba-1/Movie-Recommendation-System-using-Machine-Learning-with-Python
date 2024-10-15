@@ -1,1 +1,8 @@
-*.pkl filter=lfs diff=lfs merge=lfs -text
+# Ensure all text files use Unix line endings
+* text=auto eol=lf
+
+# Treat these files as binary (no diffs)
+*.pkl binary
+*.jpg binary
+*.png binary
+
